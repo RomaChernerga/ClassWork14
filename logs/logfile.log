@@ -1,0 +1,22 @@
+TRACE 13-10-2021 14:32:25 [main] CW14.LoggingExample (LoggingExample.java:17) - Trace log 
+DEBUG 13-10-2021 14:32:25 [main] CW14.LoggingExample (LoggingExample.java:18) - Debug log 
+INFO  13-10-2021 14:32:25 [main] CW14.LoggingExample (LoggingExample.java:19) - Info log 
+WARN  13-10-2021 14:32:25 [main] CW14.LoggingExample (LoggingExample.java:20) - Warn log 
+ERROR 13-10-2021 14:32:25 [main] CW14.LoggingExample (LoggingExample.java:21) - Error log 
+FATAL 13-10-2021 14:32:25 [main] CW14.LoggingExample (LoggingExample.java:22) - Fatal log 
+INFO  13-10-2021 14:32:25 [main] CW14.LoggingExample (LoggingExample.java:23) - Cat Barsik age 25 said Hello
+WARN  13-10-2021 14:32:25 [Thread-0] CW14.LoggingExample (LoggingExample.java:25) - From other thread
+ERROR 13-10-2021 14:32:25 [main] CW14.LoggingExample (LoggingExample.java:31) - Throwing
+java.lang.StackOverflowError: AAAAA
+	at CW14.LoggingExample.main(LoggingExample.java:28) [classes/:?]
+TRACE 13-10-2021 14:36:05 [main] CW14.LoggingExample (LoggingExample.java:17) - Trace log 
+DEBUG 13-10-2021 14:36:05 [main] CW14.LoggingExample (LoggingExample.java:18) - Debug log 
+INFO  13-10-2021 14:36:05 [main] CW14.LoggingExample (LoggingExample.java:19) - Info log 
+WARN  13-10-2021 14:36:05 [main] CW14.LoggingExample (LoggingExample.java:20) - Warn log 
+ERROR 13-10-2021 14:36:05 [main] CW14.LoggingExample (LoggingExample.java:21) - Error log 
+FATAL 13-10-2021 14:36:05 [main] CW14.LoggingExample (LoggingExample.java:22) - Fatal log 
+INFO  13-10-2021 14:36:05 [main] CW14.LoggingExample (LoggingExample.java:23) - Cat Barsik age 25 said Hello
+WARN  13-10-2021 14:36:05 [Thread-0] CW14.LoggingExample (LoggingExample.java:25) - From other thread
+ERROR 13-10-2021 14:36:05 [main] CW14.LoggingExample (LoggingExample.java:31) - Throwing
+java.lang.StackOverflowError: AAAAA
+	at CW14.LoggingExample.main(LoggingExample.java:28) [classes/:?]
